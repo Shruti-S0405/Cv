@@ -29,23 +29,29 @@ cv:
           - "Built an AI/ML application with a focus on GenAI in the Medicare Domain"
           - "Skill set :- AngularJS, Python(Flask), Semantic Kernel, Okta, Azure LLM, MS SQL Server"
     projects:
-      - name: "[SoundSynth](https://github.com/Shruti-S0405)"
-        date: "2024-03-2024"
+      - name: "[Quiz App](https://github.com/Shruti-S0405/Quiz-App-Springboot)"
+        date: "2025-03-01"
         highlights:
-          - "Converts audio files directly to summarized text for better and short reading."
-          - "Uses Deepgram API for Audio processing and Leverages Gemini 1.5 Pro API to summarization."
-          - "Tech Stack: ReactJS, Vite, NodeJS, Cloudflare R2, Cloudflare Workers, Gemini."
+          - "Developed a technical quiz application using Spring Boot and a microservices architecture"
+          - "Implemented dynamic quiz generation, service discovery using Netflix Eureka, and inter-service communication with OpenFeign to ensure scalability and modularity."
+          - "Tech Stack: SpringBoot, Spring Cloud(Netflix Eureka, OpenFeign), PostgreSQL, React.js"
       - name: "[CodeSense](https://github.com/Shruti-S0405/CodeSense)"
         date: "2024-05-01"
         highlights:
           - "Leverages Gemini 1.5 Pro API to summarization"
           - "Supports JS, Python, C, C++, Java, etc ..."
-          - "Tech Stack: ReactJS, Vite, NodeJS, Cloudflare Workers, Gemini"
-      - name: "[ScanMe - QR Generator](https://github.com/Shruti-S0405/ScanMe)"
-        date: "2024-06-10"
+          - "Tech Stack: ReactJS, Vite, NodeJS, Gemini"
+    Hackathons:
+      - name: "[SoundSynth](https://github.com/Shruti-S0405)"
+        date: "2024-03-02"
         highlights:
-          - "Create QR Code with ease to share Links, Messages, etc ..."
-          - "Tech Stack: ReactJS, Vite, NodeJS, Cloudflare Workers, Gemini"
+          - "Converts audio files directly to summarized text for better and short reading."
+          - "Won the best project award in PECTEAM - 2024 hosted in Panimalar Engineering College"
+      - name: "[Smart Insurance](https://github.com/Shruti-S0405/Smart-Insurance/)"
+        date: "2024-08-10"
+        highlights:
+          - "Fraud and malpractice detection by insurance companies in claims submission"
+          - "Won 1st Runner Up in PECTechathon 2.0, 36 hours hacakthon hosted by Cognizant"
     certifications:
       - name: "[Github Foundation](https://www.credly.com/badges/f3c9792a-9ba8-4535-b9a2-f05bd0abca66) by [Github](https://www.github.com/)"
         date: "2024-08-17"
@@ -53,14 +59,14 @@ cv:
         date: "2024-07-23"
     skills:
       - label: "Web Development"
-        details: "HTML, CSS, JavaScript, Node.js, Express.js, React, Angular"
+        details: "HTML, CSS, JavaScript, React, Angular, Node.js, Express.js, "
       - label: "Programming"
-        details: "Java, JavaScript, C++, C, Python"
+        details: "Java, JavaScript, C, Python"
       - label: "Databases"
-        details: "MySQL, Microsoft SQL Server"
+        details: "MySQL, Microsoft SQL Server, PostgreSQL"
       - label: "Tools"
         details: "Postman, VS Code, Git, GitHub"
       - label: "DevOps"
-        details: "Netlify, Vercel, Cloudflare, Azure"
+        details: "Netlify, Vercel, Cloudflare"
 design:
   theme: engineeringresumes
